@@ -1,0 +1,1 @@
+np.sum(groundtruth)
